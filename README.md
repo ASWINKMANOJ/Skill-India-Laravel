@@ -101,8 +101,3 @@ MIT License. Contributions welcome!
 
 ---
 
-### 🖼️ Suggested Enhancements  
-- Add screenshots under `## 📸 UI Preview`  
-- Include ER diagram for database schema  
-
-Let me know if you'd like to expand any section further!
